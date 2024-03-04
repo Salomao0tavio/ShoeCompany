@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SbRETzq4acvvt7njyFYZERxOnTSMWRMAZOP+rw0ZH50WwPyRyOoGvAjuY/AnK1fcab3DJ3rkb7KQ7/KwGIfzYg==",
+  "dgSpecHash": "2JjsLGzqf8WntM6lFbGMPuVlTTvQFRs9ephjkbmcgMBFYHM+lNdhsMkTh+uXFWrpYGRp9vzVH2IaQuOiOjbtIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\otavi\\Desktop\\AzureAPI\\ShoeCompany\\ShoeCompany.csproj",
+  "projectFilePath": "C:\\Users\\otavi\\Desktop\\ShoeCompany\\ShoeCompany\\ShoeCompany.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\otavi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\otavi\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

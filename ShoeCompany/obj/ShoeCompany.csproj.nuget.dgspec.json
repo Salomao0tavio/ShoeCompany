@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\otavi\\Desktop\\AzureAPI\\ShoeCompany\\ShoeCompany.csproj": {}
+    "C:\\Users\\otavi\\Desktop\\ShoeCompany\\ShoeCompany\\ShoeCompany.csproj": {}
   },
   "projects": {
-    "C:\\Users\\otavi\\Desktop\\AzureAPI\\ShoeCompany\\ShoeCompany.csproj": {
+    "C:\\Users\\otavi\\Desktop\\ShoeCompany\\ShoeCompany\\ShoeCompany.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\otavi\\Desktop\\AzureAPI\\ShoeCompany\\ShoeCompany.csproj",
+        "projectUniqueName": "C:\\Users\\otavi\\Desktop\\ShoeCompany\\ShoeCompany\\ShoeCompany.csproj",
         "projectName": "ShoeCompany",
-        "projectPath": "C:\\Users\\otavi\\Desktop\\AzureAPI\\ShoeCompany\\ShoeCompany.csproj",
+        "projectPath": "C:\\Users\\otavi\\Desktop\\ShoeCompany\\ShoeCompany\\ShoeCompany.csproj",
         "packagesPath": "C:\\Users\\otavi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\otavi\\Desktop\\AzureAPI\\ShoeCompany\\obj\\",
+        "outputPath": "C:\\Users\\otavi\\Desktop\\ShoeCompany\\ShoeCompany\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
